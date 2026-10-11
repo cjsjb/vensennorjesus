@@ -31,9 +31,9 @@
 		d' 2 ~ d' 8 r d' e'  |
 		d' 2. r8 e' 16 fis'  |
 		g' 8 g' g' g' 16 fis' 8. fis' 8 e' e' 16 e' ~  |
-		e' 8 d' ~ d' 2 r8 e' 16 fis'  |
+		e' 8 d' ~ d' 2 r8 c' 16 d'  |
 %% 15
-		g' 8 g' g' e' 16 a' 8 a' 8. r8 d' 16 d'  |
+		e' 8 e' e' c' 16 fis' 8 fis' 8. r8 d' 16 d'  |
 		g' 8 a' g' fis' 16 e' ~ e' 4 r8 e' 16 e'  |
 		e' 8 e' e' e' 16 d' 8. d' 8 d' d'  |
 		b 2 r8 r16 d' e' fis' 8. -\staccato  |
